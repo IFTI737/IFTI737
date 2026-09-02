@@ -1,143 +1,84 @@
-<!--- banner --->
+<p align="center">
+  <img src="./banner/banner.jpg" alt="Iftekhar's GitHub Banner" width="100%">
+</p>
 
-<img src="./banner/github_banner.png" alt="Hello World">
-
-<br/>
-
-<!--- title --->
-
-<div id="user-content-toc">
-  <ul align="center">
-    <summary>
-      <h1 style="display: inline-block">Hi 👋, I'm Iftekhar</h1>
-    </summary>
-
-```
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=500&size=25&pause=1000&color=2B90FF&center=true&vCenter=true&width=650&lines=CSE+Student;Full-Stack+Developer;AI%2FML+Enthusiast;Interested+in+Bioinformatics;Building+Real-World+Solutions" alt="Typing SVG" />
-</a>
-```
-
-  </ul>
+<div align="center">
+  <h1>Hi 👋, I'm Iftekhar</h1>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=2B90FF&center=true&vCenter=true&width=600&lines=CSE+Student+%40+AIUB;Deep+Learning+%26+Computer+Vision+Researcher;NLP+Enthusiast;Full+Stack+Web+Developer" alt="Typing SVG" />
+  </a>
 </div>
 
 <br/>
 
-<!--- about --->
+## 🚀 About Me
 
-## 👨‍💻 About Me
-
-* 🎓 I’m a **CSE Student** passionate about technology and problem solving.
-* 💻 I’m interested in **Full-Stack Web Development** and building scalable applications.
-* 🤖 I’m an **AI/ML Enthusiast** exploring Machine Learning, Deep Learning and Computer Vision.
-* 🧬 I’m interested in **Bioinformatics** and the application of AI to biological and genomic data.
-* 🚀 I enjoy turning ideas into **real-world solutions** through software and intelligent systems.
-* 🌱 I’m continuously learning and improving my skills in **Web Development, AI/ML and Software Engineering**.
-* 🔬 Currently exploring **Machine Learning, Deep Learning, Computer Vision and Bioinformatics**.
-* 💡 I love working on projects that combine **software, data and intelligent systems**.
+- 🎓 First-year **Computer Science and Engineering** student at **American International University-Bangladesh (AIUB)**
+- 🔬 Focused on **Deep Learning research**, **NLP**, and applied **Computer Vision**
+- 📄 Co-authored a paper submitted to **ICCA 2026** on urban waste detection (YOLO / RT-DETR / Faster R-CNN)
+- 🧬 Currently working on graph neural networks for antimicrobial-resistance gene classification and a rheumatoid-arthritis gene-expression thesis
+- 🛠️ Also builds practical, ML-powered systems: face verification, crop recommendation, and CAPTCHA automation
+- 🌍 Based in Dhaka, Bangladesh
 
 <br/>
 
-<!--- socials --->
+## 🧪 Featured Projects & Research
 
-## 🌐 <b>CONNECT WITH ME:</b>
+| Project | Description |
+|---|---|
+| 🗑️ **Urban Waste Detection** | Object detection with YOLO26 / RT-DETR-L / Faster R-CNN on a self-collected, 12k-image, 9-class Bangladesh waste dataset, with Grad-CAM++ / Eigen-CAM explainability. Paper submitted to ICCA 2026. |
+| 🧬 **ARG Classification (GNN)** | Research proposal applying GCN / GAT / GraphSAGE / GIN to antimicrobial-resistance gene classification via protein/gene similarity graphs. |
+| 🩺 **RA Gene Expression Thesis** | ML-ready datasets built from the GSE93272 microarray dataset for rheumatoid-arthritis diagnosis and disease-activity prediction. |
+| 🌾 **Crop Recommendation System** | ML model + FastAPI backend + ESP32 sensors, built for a Bangladesh-specific precision-agriculture research paper. |
+| 🔐 **Face Verification System** | Real-time face verification (YuNet + SFace) that triggers an Arduino-controlled door lock over serial. |
+| 🔡 **CAPTCHA Recognition** | OCR + Random Forest pipeline that automates CAPTCHA-solving for the AIUB student portal. |
+| 💻 **Linux Terminal Simulator** | Browser-based Linux terminal simulator with a virtual filesystem, plugin-based commands, and an optional Learning Mode. |
 
-<div>
-  <p align="left">
-    <a href="https://github.com/" target="_blank">
-      <img src="https://skillicons.dev/icons?i=github" alt="GitHub" height="30" width="40"/>
-    </a>
-    <a href="https://www.linkedin.com/" target="_blank">
-      <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="30" width="40"/>
-    </a>
-  </p>
-</div>
-
-<br/>
-
-<!--- technology --->
-
-## 🛠️ <b>TECHNOLOGY STACK:</b>
-
-### Languages
-
-### Frontend Development
-
-### Backend Development
-
-### Database
-
-### AI / ML / Data
-
-### Tools & Technologies
+> 💡 Tip: pin your best repos on your GitHub profile (top of your profile page → Customize your pins) so this table lines up with real links.
 
 <br/>
 
-<!--- projects --->
+## 🛠️ Tech Stack
 
-## 🚀 <b>FEATURED PROJECTS:</b>
+**Languages**
 
-### 🤖 AI & Machine Learning
+![Languages](https://skillicons.dev/icons?i=python,javascript,typescript,html,css)
 
-* **Bangla Sentiment Pro** — Bangla and Banglish sentiment/emotion analysis using NLP and transformer-based models.
-* **Waste Detection System** — Computer vision based waste detection using object detection models.
-* **Smart Crop Recommendation System** — IoT and Machine Learning based crop recommendation system.
+**ML / Deep Learning**
 
-### 💻 Software & Web Development
+![ML](https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,sklearn)
 
-* **The Happy Han House** — Desktop application developed using C#.
-* **Hardware-Enforced Bank Vault Security System** — Security system designed using combinational logic circuits.
+**Web Development**
 
-<br/>
+![Web](https://skillicons.dev/icons?i=react,nextjs,nodejs,express)
 
-<!--- currently learning --->
+**Tools & Platforms**
 
-## 🌱 <b>CURRENTLY EXPLORING:</b>
-
-* Full-Stack Web Development
-* Machine Learning & Deep Learning
-* Computer Vision
-* Natural Language Processing
-* Bioinformatics
-* Genomics & Graph-based Analysis
-* Software Architecture
+![Tools](https://skillicons.dev/icons?i=git,github,vscode,docker,arduino,linux)
 
 <br/>
 
-<!--- github statistics --->
-
-## 📊 <b>GITHUB STATISTICS & ANALYSIS:</b>
-
-### GitHub Contributions
-
-### GitHub Statistics
-
-|                                                                      GitHub Stats                                                                      |                                                             Top Languages                                                            |
-| :----------------------------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------: |
-| <img src="https://github-readme-stats.vercel.app/api?username=Iftekhar737&theme=swift&hide_border=true&include_all_commits=true&count_private=true" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Iftekhar737&theme=swift&hide_border=true&layout=compact" /> |
-
-### Repository Stats & Streak
-
-|                                                                        Repository Stats                                                                       |                           GitHub Streak                          |
-| :-----------------------------------------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------: |
-| <img src="https://github-contributor-stats.vercel.app/api?username=Iftekhar737&limit=5&theme=swift&combine_all_yearly_contributions=true&hide_border=true" /> | <img src="https://streak-stats.demolab.com/?user=Iftekhar737" /> |
-
-<br/>
-
-<!--- quote --->
-
-## 💭 <b>RANDOM DEV QUOTE:</b>
-
-<img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=light"/>
-
-<br/>
-
-<!--- visit count --->
-
-<p align="left">   <img src="https://komarev.com/ghpvc/?username=IFTI737&label=Profile%20views&color=0e75b6&style=flat" alt="IFTI737" /> </p>
-
----
+## 📊 GitHub Statistics
 
 <p align="center">
-  <b>✨ Building • Learning • Exploring • Growing ✨</b>
+  <img src="https://github-readme-stats.vercel.app/api?username=IFTI737&show_icons=true&theme=tokyonight&hide_border=true" alt="Iftekhar's GitHub stats" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IFTI737&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=IFTI737&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</p>
+
+<br/>
+
+## 📫 Connect With Me
+
+<p align="left">
+  <a href="mailto:YOUR_EMAIL@example.com"><img src="https://skillicons.dev/icons?i=gmail" alt="email" height="30" width="40"/></a>
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" alt="linkedin" height="30" width="40"/></a>
+  <a href="https://YOUR_PORTFOLIO_URL" target="_blank"><img src="https://skillicons.dev/icons?i=vercel" alt="portfolio" height="30" width="40"/></a>
+</p>
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=IFTI737&label=Profile%20views&color=2B90FF&style=flat" alt="IFTI737"/>
 </p>
