@@ -28,7 +28,7 @@
 |---|---|
 | 🗑️ **Urban Waste Detection** | Object detection with YOLO26 / RT-DETR-L / Faster R-CNN on a self-collected, 12k-image, 9-class Bangladesh waste dataset, with Grad-CAM++ / Eigen-CAM explainability. Paper submitted to ICCA 2026. |
 | 🧬 **ARG Classification (GNN)** | Research proposal applying GCN / GAT / GraphSAGE / GIN to antimicrobial-resistance gene classification via protein/gene similarity graphs. |
-| 🩺 **RA Gene Expression Thesis** | ML-ready datasets built from the GSE93272 microarray dataset for rheumatoid-arthritis diagnosis and disease-activity prediction. |
+| 🩺 **RA Gene Expression Thesis** | ML-ready datasets built from the  microarray dataset for RA diagnosis and disease-activity prediction. |
 | 🌾 **Crop Recommendation System** | ML model + FastAPI backend + ESP32 sensors, built for a Bangladesh-specific precision-agriculture research paper. |
 | 🔐 **Face Verification System** | Real-time face verification (YuNet + SFace) that triggers an Arduino-controlled door lock over serial. |
 | 🔡 **CAPTCHA Recognition** | OCR + Random Forest pipeline that automates CAPTCHA-solving for the AIUB student portal. |
