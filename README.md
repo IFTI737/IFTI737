@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./banner/banner.jpg" alt="Iftekhar's GitHub Banner" width="100%">
+  <img src="./banner/banner.png" alt="Iftekhar's GitHub Banner" width="100%">
 </p>
 
 <div align="center">
@@ -28,7 +28,7 @@
 |---|---|
 | 🗑️ **Urban Waste Detection** | Object detection with YOLO26 / RT-DETR-L / Faster R-CNN on a self-collected, 12k-image, 9-class Bangladesh waste dataset, with Grad-CAM++ / Eigen-CAM explainability. Paper submitted to ICCA 2026. |
 | 🧬 **ARG Classification (GNN)** | Research proposal applying GCN / GAT / GraphSAGE / GIN to antimicrobial-resistance gene classification via protein/gene similarity graphs. |
-| 🩺 **RA Gene Expression Thesis** | ML-ready datasets built from the  microarray dataset for RA diagnosis and disease-activity prediction. |
+| 🩺 **RA Gene Expression Thesis** | ML-ready datasets built from the GSE93272 microarray dataset for rheumatoid-arthritis diagnosis and disease-activity prediction. |
 | 🌾 **Crop Recommendation System** | ML model + FastAPI backend + ESP32 sensors, built for a Bangladesh-specific precision-agriculture research paper. |
 | 🔐 **Face Verification System** | Real-time face verification (YuNet + SFace) that triggers an Arduino-controlled door lock over serial. |
 | 🔡 **CAPTCHA Recognition** | OCR + Random Forest pipeline that automates CAPTCHA-solving for the AIUB student portal. |
@@ -61,8 +61,8 @@
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=IFTI737&show_icons=true&theme=tokyonight&hide_border=true" alt="Iftekhar's GitHub stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IFTI737&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="180"/>
+  <img src="https://github-readme-stats-puce-six-61.vercel.app/api?username=IFTI737&show_icons=true&theme=tokyonight&hide_border=true" alt="Iftekhar's GitHub stats" height="180"/>
+  <img src="https://github-readme-stats-puce-six-61.vercel.app/api/top-langs/?username=IFTI737&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="180"/>
 </p>
 
 <p align="center">
