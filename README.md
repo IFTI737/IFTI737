@@ -17,9 +17,8 @@
 <details open>
 <summary><h2>🚀 About Me</h2></summary>
 
-- 🎓 First-year **Computer Science and Engineering** student at **American International University-Bangladesh (AIUB)**
+- 🎓 Last-year **Computer Science and Engineering** student at **American International University-Bangladesh (AIUB)**
 - 🔬 Focused on **Deep Learning research**, **NLP**, and applied **Computer Vision**
-- 📄 Co-authored a paper submitted to **ICCA 2026** on urban waste detection (YOLO / RT-DETR / Faster R-CNN)
 - 🧬 Currently working on graph neural networks for antimicrobial-resistance gene classification and a rheumatoid-arthritis gene-expression thesis
 - 🌐 Also sharpening full-stack fundamentals through Programming Hero's **AI-driven Full-Stack Web Development** course (HTML, CSS, JS, TS, React, Next.js, Express.js, MongoDB)
 - 🛠️ Builds practical, ML-powered systems on the side: face verification, crop recommendation, and CAPTCHA automation
