@@ -47,7 +47,7 @@ I'm a final-year Computer Science and Engineering student at **American Internat
 <br/>
 
 <details open>
-<summary><h2>💻 Featured Web Projects</h2></summary>
+<summary><h2>💻 Featured Projects</h2></summary>
 
 <br/>
 
@@ -70,26 +70,28 @@ A centralized AI "digital watcher" that turns the ordinary cameras a building al
 
 <br/>
 
-### 🛒 BazarDor (বাজার দর)
+### 💬 অনুভূতি · Bangla Sentiment Pro
 
-A Bangla market-price tracker for everyday essentials: rice, lentils, oil, vegetables, fish, meat, eggs, dairy and spices.
+Sentiment and emotion analysis for **Bangla and Banglish** text, built on three transformer models I fine-tuned myself. Each text is routed to the model trained for its script, and the app returns the tone, six emotion scores, and the words that carried them.
 
-[![Live Site](https://img.shields.io/badge/Live-Site-2B90FF?style=for-the-badge&logo=vercel&logoColor=white)](https://bazar-dor-2-0-ifti.vercel.app/)
-[![Source Code](https://img.shields.io/badge/Source-Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/IFTI737/bazar-dor-2.0-ifti)
+[![Live App](https://img.shields.io/badge/Live-App-2B90FF?style=for-the-badge&logo=vercel&logoColor=white)](https://bangla-sentiment-pro-psi.vercel.app)
+[![API Docs](https://img.shields.io/badge/API-Docs-009688?style=for-the-badge&logo=fastapi&logoColor=white)](https://iftekhar737-bangla-backend.hf.space/docs)
+[![Models](https://img.shields.io/badge/Models-Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/Iftekhar737)
 
-- 📈 Live price ticker and "today's price movers" (risers and fallers, color-coded)
-- 🏪 Price comparison across 12 markets, with lowest / highest / average and yesterday, last week and last month
-- 🔐 Authentication with Better Auth + MongoDB (email/password, Google, GitHub) and protected routes
-- 🔍 Product search, category pages with numeric sorting (Bengali digits included), and light/dark mode
-- 🛡️ Automatic API fallback: tries two backup APIs before showing a friendly Bangla error
-- 🇧🇩 Bengali-first, fully responsive UI
+- 🧠 Three fine-tuned models: Bangla sentiment (BERT), Bangla emotion (BanglaBERT) and Banglish emotion (XLM-R)
+- 🔎 Word-level explanations: each word is removed in turn to show how much it mattered
+- 📊 Mood journal, bulk CSV analysis (up to 2,000 rows) and YouTube comment analysis
+- ⚙️ FastAPI backend in Docker on a Hugging Face Space, Next.js frontend on Vercel
+- 🔌 Public REST API with a live playground and cURL, JavaScript and Python examples
+- 🎙️ Voice input, dark and light themes, and a "Result looks wrong?" correction flow
 
 ![Next.js](https://img.shields.io/badge/Next.js_16-000000?style=flat-square&logo=next.js&logoColor=white)
 ![React](https://img.shields.io/badge/React_19-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind_4-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![daisyUI](https://img.shields.io/badge/daisyUI_5-5A0EF8?style=flat-square&logo=daisyui&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![Transformers](https://img.shields.io/badge/Transformers-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 </details>
 
@@ -100,6 +102,7 @@ A Bangla market-price tracker for everyday essentials: rice, lentils, oil, veget
 
 | Project | Description |
 |---|---|
+| 📸 **StudioSpace** ([Live](https://studiospace-client-nu.vercel.app) · [Client](https://github.com/IFTI737/studiospace-client) · [Server](https://github.com/IFTI737/studiospace-server)) | Peer-to-peer marketplace where creators book photo, film, podcast and music studios by the hour and hosts list and manage their spaces. Next.js 16, Express 5, MongoDB and Better Auth with JWT-protected routes. Features double-booking prevention, host CRUD with image upload, reviews, a saved-studios wishlist and PDF invoices. |
 | 🗑️ **Urban Waste Detection** | Object detection with YOLO26 / RT-DETR-L / Faster R-CNN on a self-collected ~12k-image, 9-class Bangladesh waste dataset, with Grad-CAM++ / Eigen-CAM explainability. Submitted to ICCA 2026, now being extended into a second paper. |
 | 🍆 **Brinjal Disease Classification** | Hybrid CNN feature-fusion model (~90.9% test accuracy) benchmarked against the BrinjalFruitX reference paper, with duplicate-aware, leakage-free splits. Paper in progress. |
 | 🧬 **Gene-Expression Network Thesis** | Gene co-expression network topology and explainable GNNs for biomarker discovery in autoimmune disease (SLE). |
@@ -188,9 +191,9 @@ A Bangla market-price tracker for everyday essentials: rice, lentils, oil, veget
 <br/>
 
 <p align="left">
-  <a href="mailto:YOUR_EMAIL@example.com"><img src="https://skillicons.dev/icons?i=gmail" alt="email" height="30" width="40"/></a>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" alt="linkedin" height="30" width="40"/></a>
-  <a href="https://YOUR_PORTFOLIO_URL" target="_blank"><img src="https://skillicons.dev/icons?i=vercel" alt="portfolio" height="30" width="40"/></a>
+  <a href="mailto:iftekharbinshoib@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" alt="email" height="30" width="40"/></a>
+  <a href="https://www.linkedin.com/in/iftekhar-bin-shoib-7570082a6" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" alt="linkedin" height="30" width="40"/></a>
+  <a href="https://iftekharbinshoib.vercel.app" target="_blank"><img src="https://skillicons.dev/icons?i=vercel" alt="portfolio" height="30" width="40"/></a>
 </p>
 
 </details>
