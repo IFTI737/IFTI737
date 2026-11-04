@@ -105,7 +105,7 @@ Sentiment and emotion analysis for **Bangla and Banglish** text, built on three 
 | 📸 **StudioSpace** ([Live](https://studiospace-client-nu.vercel.app) · [Client](https://github.com/IFTI737/studiospace-client) · [Server](https://github.com/IFTI737/studiospace-server)) | Peer-to-peer marketplace where creators book photo, film, podcast and music studios by the hour and hosts list and manage their spaces. Next.js 16, Express 5, MongoDB and Better Auth with JWT-protected routes. Features double-booking prevention, host CRUD with image upload, reviews, a saved-studios wishlist and PDF invoices. |
 | 🗑️ **Urban Waste Detection** | Object detection with YOLO26 / RT-DETR-L / Faster R-CNN on a self-collected ~12k-image, 9-class Bangladesh waste dataset, with Grad-CAM++ / Eigen-CAM explainability. Submitted to ICCA 2026, now being extended into a second paper. |
 | 🍆 **Brinjal Disease Classification** | Hybrid CNN feature-fusion model (~90.9% test accuracy) benchmarked against the BrinjalFruitX reference paper, with duplicate-aware, leakage-free splits. Paper in progress. |
-| 🧬 **Gene-Expression Network Thesis** | Gene co-expression network topology and explainable GNNs for biomarker discovery in autoimmune disease (SLE). |
+| 🧬 **Gene-Expression Network Thesis** | Gene co-expression network topology and explainable GNNs for biomarker discovery in autoimmune disease. |
 | 🔐 **Face Verification System** | Real-time face verification (YuNet + SFace) that triggers an Arduino-controlled door lock over serial. |
 
 </details>
